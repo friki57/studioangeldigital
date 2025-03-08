@@ -74,7 +74,9 @@
     }
 
     .slider_section .detail-box .detail_content {
-        padding: 45px 25px;
+        padding: 45px 0px;
+        display: flex;
+        justify-content: center;
     }
 
     .slider_section .detail-box h1 {
