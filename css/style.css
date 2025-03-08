@@ -127,7 +127,7 @@ body {
   display: -ms-flexbox;
   display: flex;
   margin: 0;
-  margin-left: 5%;
+  /* margin-left: 5%; */
 }
 
 .navbar-brand span {

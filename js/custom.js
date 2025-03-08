@@ -17,7 +17,6 @@ function displayYear() {
     var currentYear = d.getFullYear();
     document.querySelector("#displayYear").innerHTML = currentYear;
 }
-displayYear();
 
 
 
@@ -48,7 +47,6 @@ $(".owl-carousel").owlCarousel({
 
 
 // slider carousel control
-
 
 $('.slider_btn_prev').on('click', function (e) {
     e.preventDefault()
